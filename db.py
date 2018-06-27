@@ -1,7 +1,7 @@
 import sqlite3
 from pprint import pprint
 
-sqlite_file = 'C:\\Users\\tom.FLYNN\\Documents\\python\\script-server\\my_db.sqlite'
+sqlite_file = r'.\my_db.sqlite'
 
 
 def init_db():
